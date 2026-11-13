@@ -32,18 +32,18 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your computer.
 
 1. Clone the repository:
    ```bash
-   git clone <your-repository-url>
+   git clone [<your-repository-url>](https://github.com/sramasetty/flashcard-quiz-app.git)
    ```
 2. Navigate to the project directory:
 
    ```bash
-   git clone <your-repository-url>
+   cd flashcard-quiz-app
    ```
 
 3. Install the necessary dependencies:
 
    ```bash
-   cd flashcard-quiz-app
+   npm install
    ```
 
 4. Start the development server:
